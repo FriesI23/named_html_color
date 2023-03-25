@@ -1,3 +1,7 @@
+## 0.0.3
+
+- flutter version dependency to 2.12.0~3.0.0
+
 ## 0.0.2
 
 - Complete readme

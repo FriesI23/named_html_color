@@ -2,7 +2,7 @@ name: named_html_color
 description: >
   Very simple package that defines named colors for HTML, include 140 famous
   color.
-version: 0.0.2
+version: 0.0.3
 homepage: https://github.com/FriesI23/html_color
 
 environment:

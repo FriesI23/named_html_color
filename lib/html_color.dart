@@ -1,3 +1,3 @@
 library named_html_color;
 
-export 'colors.dart' show HTMLColor;
+export '_colors.dart' show HTMLColor;

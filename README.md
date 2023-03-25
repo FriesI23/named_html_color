@@ -4,7 +4,7 @@ more info see: [here](https://htmlcolorcodes.com/color-names/)
 
 ## Getting started
 
-just add `html_colors` to your `pubspec.yaml`
+just add `named_html_color` to your `pubspec.yaml`
 
 ```yaml
 dependencies:
